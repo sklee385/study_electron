@@ -1,0 +1,12 @@
+{
+    "name": "electron_study",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "start" : "electron index.js"
+    },
+    "keywords": [],
+    "author": "sklee <sklee385@gmail.com>",
+    "license": "ISC"
+}
